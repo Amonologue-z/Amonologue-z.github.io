@@ -1,3 +1,6 @@
+html {
+  filter: grayscale(100%);
+}
 #nav .menu .item:not(.title) a::before {
   content: "";
   position: absolute;
