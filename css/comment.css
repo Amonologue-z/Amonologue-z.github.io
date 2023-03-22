@@ -1,7 +1,3 @@
-html {
-  filter: grayscale(100%);
-}
-
 .v.wrap {
   animation: none;
   opacity: 0;
