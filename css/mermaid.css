@@ -1,6 +1,3 @@
-html {
-  filter: grayscale(100%);
-}
 pre.mermaid,
 pre.graphviz {
   background: none;
